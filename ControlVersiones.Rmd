@@ -187,6 +187,8 @@ AreaCirc<-pi*r^2
 
 Ahora añadimos el área de un cuadrado.
 
+## Área de un cuadrado
+
 ```{r}
 l<-2
 AreaCuad<-l^2
