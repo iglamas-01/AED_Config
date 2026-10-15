@@ -182,7 +182,12 @@ El objetivo de este ejercicio es familiarizarnos con el funcionamiento de Git y 
 
 ```{r}
 r<-2
-Area<-pi*r^2
+AreaCirc<-pi*r^2
+```
 
+Ahora añadimos el área de un cuadrado.
 
+```{r}
+l<-2
+AreaCuad<-l^2
 ```
